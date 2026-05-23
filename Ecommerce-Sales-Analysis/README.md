@@ -139,9 +139,3 @@ The project involved importing multiple relational datasets into MySQL, correcti
 \- Power BI Dashboard
 
 \- Project Report PDF
-
-## Project Report
-
-Detailed project report available here:
-
-[View Project Report](Project_Document/Olist_Ecommerce_Project_Report.pdf)
